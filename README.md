@@ -20,7 +20,7 @@
 | | |
 |---|---|
 | **Mã lớp** | IS6002.26.1.CH.02 |
-| **Giảng viên** | PGS.TS. Nguyễn Đình Thuân |
+| **Giảng viên** | PGS.TS. Nguyễn Đình Thuân <br> ThS. Nguyễn Thị Kim Phụng |
 | **Nhóm** | 13 |
 | **Thành viên** | Lê Anh Tuấn - 26848245 <br> Lê Thị Thương - 26848218 <br> Nguyễn Vũ Mai Phương - 26848176 <br> Nguyễn Dương Quốc Anh - 26848005 |
 
