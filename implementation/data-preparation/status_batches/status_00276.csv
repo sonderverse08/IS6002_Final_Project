@@ -1,0 +1,174 @@
+contract_id,status,compiler,runtime_contracts,metadata_removed,metadata_unverified,unknown_opcode_count,error
+C027501,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027502,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C027503,FEATURE_SUCCESS,0.4.11,9,9,0,0,
+C027504,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C027505,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C027506,FEATURE_SUCCESS,0.5.17,3,3,0,0,
+C027507,FEATURE_SUCCESS,0.5.17,5,5,0,0,
+C027508,FEATURE_SUCCESS,0.4.24,11,11,0,0,
+C027509,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027510,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C027511,FEATURE_SUCCESS,0.4.11,6,6,0,0,
+C027512,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C027513,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027514,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027515,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027516,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027517,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027518,FEATURE_SUCCESS,0.5.17,8,8,0,2,
+C027519,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C027520,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.11 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:11:47: Error: Expected token LBrace got reserved keyword 'Pure'
+  function mul( || solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ || solc 0.5.17: An error occurred during execution
+> command: `/root/.solcx/solc-v0.5.17 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:105:3: Error: Functions are not allowed to have the same name as the contract.  || solc 0.6.12: An error occurred during execution
+> command: `/root/.solcx/solc-v0.6.12 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Warning: SPDX license identifier not provided in source file. Before publishing, consid || solc 0.7.6: An error occurred during execution
+> command: `/root/.solcx/solc-v0.7.6 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Warning: SPDX license identifier not provided in source file. Before publishing, conside || solc 0.8.37: An error occurred during execution
+> command: `/root/.solcx/solc-v0.8.37 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Warning: SPDX license identifier not provided in source file. Before publishing, consid"
+C027521,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027522,PROCESS_FAILED,,0,0,0,0,"solc 0.4.24: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.24 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:209:3: Warning: Defining constructors as functions with the same name as the co || solc 0.4.26: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.26 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:209:3: Warning: Defining constructors as functions with the same name as the co"
+C027523,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027524,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027525,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C027526,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C027527,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C027528,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027529,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C027530,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C027531,FEATURE_SUCCESS,0.5.17,4,4,0,2,
+C027532,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027533,FEATURE_SUCCESS,0.4.24,11,11,0,0,
+C027534,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C027535,FEATURE_SUCCESS,0.5.17,2,2,0,0,
+C027536,FEATURE_SUCCESS,0.4.26,5,5,0,0,
+C027537,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C027538,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C027539,FEATURE_SUCCESS,0.4.24,9,9,0,0,
+C027540,FEATURE_SUCCESS,0.5.17,3,3,0,0,
+C027541,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C027542,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027543,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C027544,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C027545,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027546,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C027547,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027548,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027549,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C027550,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C027551,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C027552,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C027553,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C027554,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: Runtime bytecode không hợp lệ || solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ || solc 0.5.17: An error occurred during execution
+> command: `/root/.solcx/solc-v0.5.17 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:2:38: Error: The state mutability modifier ""constant"" was removed in version 0. || solc 0.6.12: An error occurred during execution
+> command: `/root/.solcx/solc-v0.6.12 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+The state mutability modifier ""constant"" was removed in version 0.5.0. Use ""view"" or ""p || solc 0.7.6: An error occurred during execution
+> command: `/root/.solcx/solc-v0.7.6 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+ --> <stdin>:2:38:
+  |
+2 |   function mul(uint256 a, uin || solc 0.8.37: An error occurred during execution
+> command: `/root/.solcx/solc-v0.8.37 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+ --> <stdin>:2:38:
+  |
+2 |   function mul(uint256 a, ui"
+C027555,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C027556,FEATURE_SUCCESS,0.4.24,2,2,0,6,
+C027557,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C027558,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C027559,FEATURE_SUCCESS,0.4.26,3,3,0,0,
+C027560,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C027561,FEATURE_SUCCESS,0.5.17,5,5,0,0,
+C027562,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027563,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027564,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C027565,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C027566,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C027567,FEATURE_SUCCESS,0.4.24,12,12,0,0,
+C027568,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C027569,FEATURE_SUCCESS,0.4.24,9,9,0,0,
+C027570,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C027571,FEATURE_SUCCESS,0.5.17,1,1,0,1,
+C027572,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027573,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C027574,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C027575,PROCESS_FAILED,,0,0,0,0,solc 0.5.17: Runtime bytecode không hợp lệ
+C027576,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C027577,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C027578,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C027579,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C027580,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C027581,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C027582,FEATURE_SUCCESS,0.4.24,2,2,0,8,
+C027583,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C027584,FEATURE_SUCCESS,0.4.11,7,7,0,0,
+C027585,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C027586,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027587,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C027588,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027589,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C027590,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C027591,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C027592,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C027593,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C027594,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027595,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027596,FEATURE_SUCCESS,0.5.17,2,2,0,0,
+C027597,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C027598,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C027599,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C027600,FEATURE_SUCCESS,0.4.24,1,1,0,0,

@@ -1,0 +1,137 @@
+contract_id,status,compiler,runtime_contracts,metadata_removed,metadata_unverified,unknown_opcode_count,error
+C015001,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C015002,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015003,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C015004,FEATURE_SUCCESS,0.4.11,5,5,0,0,
+C015005,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015006,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: Runtime bytecode không hợp lệ || solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ || solc 0.5.17: An error occurred during execution
+> command: `/root/.solcx/solc-v0.5.17 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:108:39: Error: The state mutability modifier ""constant"" was removed in version  || solc 0.6.12: An error occurred during execution
+> command: `/root/.solcx/solc-v0.6.12 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+The state mutability modifier ""constant"" was removed in version 0.5.0. Use ""view"" or ""p || solc 0.7.6: An error occurred during execution
+> command: `/root/.solcx/solc-v0.7.6 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+   --> <stdin>:108:39:
+    |
+108 |   function isPricingS || solc 0.8.37: An error occurred during execution
+> command: `/root/.solcx/solc-v0.8.37 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+   --> <stdin>:108:39:
+    |
+108 |   function isPricing"
+C015007,PROCESS_FAILED,,0,0,0,0,"solc 0.4.26: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.26 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Documented parameter ""_type"" not found in the parameter list of the function."
+C015008,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C015009,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C015010,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C015011,FEATURE_SUCCESS,0.4.26,3,3,0,0,
+C015012,FEATURE_SUCCESS,0.5.17,2,2,0,0,
+C015013,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C015014,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015015,PROCESS_FAILED,,0,0,0,0,solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ
+C015016,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015017,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015018,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C015019,FEATURE_SUCCESS,0.5.17,8,8,0,0,
+C015020,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C015021,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C015022,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C015023,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C015024,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C015025,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015026,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C015027,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C015028,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C015029,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C015030,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C015031,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C015032,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C015033,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C015034,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C015035,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C015036,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C015037,FEATURE_SUCCESS,0.4.24,10,10,0,0,
+C015038,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015039,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C015040,FEATURE_SUCCESS,0.5.17,1,1,0,0,
+C015041,FEATURE_SUCCESS,0.4.24,1,1,0,7,
+C015042,FEATURE_SUCCESS,0.5.17,6,6,0,0,
+C015043,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015044,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C015045,FEATURE_SUCCESS,0.4.24,15,15,0,0,
+C015046,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C015047,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C015048,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015049,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015050,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C015051,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C015052,FEATURE_SUCCESS,0.5.17,5,5,0,0,
+C015053,FEATURE_SUCCESS,0.4.24,21,21,0,0,
+C015054,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015055,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C015056,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015057,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C015058,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C015059,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C015060,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C015061,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C015062,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C015063,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C015064,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C015065,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C015066,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C015067,FEATURE_SUCCESS,0.4.11,4,4,0,0,
+C015068,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C015069,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C015070,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C015071,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C015072,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C015073,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C015074,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C015075,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015076,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C015077,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C015078,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C015079,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015080,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C015081,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C015082,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C015083,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C015084,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C015085,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C015086,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C015087,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C015088,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015089,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C015090,FEATURE_SUCCESS,0.5.17,3,3,0,0,
+C015091,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C015092,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C015093,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C015094,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C015095,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015096,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C015097,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C015098,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C015099,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C015100,FEATURE_SUCCESS,0.4.11,2,2,0,0,

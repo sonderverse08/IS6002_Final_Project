@@ -1,0 +1,144 @@
+contract_id,status,compiler,runtime_contracts,metadata_removed,metadata_unverified,unknown_opcode_count,error
+C027701,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C027702,FEATURE_SUCCESS,0.4.24,9,9,0,0,
+C027703,FEATURE_SUCCESS,0.4.11,2,2,0,10,
+C027704,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C027705,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027706,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C027707,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027708,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027709,FEATURE_SUCCESS,0.4.24,2,2,0,6,
+C027710,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C027711,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C027712,FEATURE_SUCCESS,0.4.11,4,4,0,1,
+C027713,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027714,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C027715,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C027716,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C027717,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C027718,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C027719,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.11 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:214:5: Error: Identifier already declared.
+    function owner(string _name) con || solc 0.4.24: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.24 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:14:5: Warning: Defining constructors as functions with the same name as the con || solc 0.4.26: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.26 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:14:5: Warning: Defining constructors as functions with the same name as the con"
+C027720,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C027721,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C027722,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C027723,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C027724,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C027725,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C027726,PROCESS_FAILED,,0,0,0,0,"solc 0.4.24: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.24 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:314:5: Warning: Defining constructors as functions with the same name as the co || solc 0.4.26: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.26 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:314:5: Warning: Defining constructors as functions with the same name as the co"
+C027727,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C027728,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C027729,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027730,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027731,PROCESS_FAILED,,0,0,0,0,solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ
+C027732,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C027733,FEATURE_SUCCESS,0.4.26,3,3,0,0,
+C027734,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027735,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C027736,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027737,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027738,FEATURE_SUCCESS,0.4.24,12,12,0,5,
+C027739,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C027740,FEATURE_SUCCESS,0.5.17,4,4,0,0,
+C027741,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C027742,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C027743,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027744,FEATURE_SUCCESS,0.4.24,10,10,0,0,
+C027745,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027746,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C027747,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C027748,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C027749,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C027750,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C027751,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C027752,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C027753,FEATURE_SUCCESS,0.5.17,1,1,0,0,
+C027754,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C027755,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C027756,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C027757,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C027758,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C027759,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027760,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027761,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C027762,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C027763,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C027764,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C027765,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C027766,FEATURE_SUCCESS,0.5.17,10,10,0,0,
+C027767,FEATURE_SUCCESS,0.5.17,7,7,0,0,
+C027768,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C027769,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C027770,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C027771,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C027772,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C027773,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C027774,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C027775,FEATURE_SUCCESS,0.4.24,9,9,0,0,
+C027776,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027777,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C027778,FEATURE_SUCCESS,0.5.17,9,9,0,0,
+C027779,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C027780,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C027781,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C027782,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C027783,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C027784,FEATURE_SUCCESS,0.4.24,9,9,0,0,
+C027785,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C027786,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C027787,FEATURE_SUCCESS,0.5.17,1,1,0,0,
+C027788,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C027789,FEATURE_SUCCESS,0.4.24,9,9,0,0,
+C027790,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C027791,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C027792,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C027793,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C027794,FEATURE_SUCCESS,0.4.24,5,5,0,24,
+C027795,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C027796,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C027797,PROCESS_FAILED,,0,0,0,0,"solc 0.4.24: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.24 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:209:3: Warning: Defining constructors as functions with the same name as the co || solc 0.4.26: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.26 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:209:3: Warning: Defining constructors as functions with the same name as the co"
+C027798,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C027799,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C027800,FEATURE_SUCCESS,0.4.24,3,3,0,0,

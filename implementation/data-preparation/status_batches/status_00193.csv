@@ -1,0 +1,138 @@
+contract_id,status,compiler,runtime_contracts,metadata_removed,metadata_unverified,unknown_opcode_count,error
+C019201,FEATURE_SUCCESS,0.4.26,13,13,0,0,
+C019202,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C019203,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C019204,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C019205,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C019206,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C019207,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C019208,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C019209,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C019210,FEATURE_SUCCESS,0.5.17,6,6,0,0,
+C019211,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C019212,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C019213,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C019214,FEATURE_SUCCESS,0.4.26,3,3,0,0,
+C019215,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C019216,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C019217,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C019218,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C019219,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C019220,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C019221,FEATURE_SUCCESS,0.4.24,44,44,0,48,
+C019222,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C019223,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C019224,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C019225,FEATURE_SUCCESS,0.4.24,11,11,0,0,
+C019226,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C019227,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C019228,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C019229,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C019230,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C019231,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C019232,PROCESS_FAILED,,0,0,0,0,solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ
+C019233,FEATURE_SUCCESS,0.5.17,8,8,0,0,
+C019234,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C019235,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C019236,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C019237,FEATURE_SUCCESS,0.4.11,9,9,0,0,
+C019238,FEATURE_SUCCESS,0.4.11,8,8,0,0,
+C019239,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C019240,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C019241,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C019242,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C019243,FEATURE_SUCCESS,0.4.26,3,3,0,0,
+C019244,PROCESS_FAILED,,0,0,0,0,solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ
+C019245,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C019246,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C019247,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C019248,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C019249,FEATURE_SUCCESS,0.5.17,8,8,0,0,
+C019250,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C019251,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C019252,FEATURE_SUCCESS,0.4.24,14,14,0,0,
+C019253,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C019254,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C019255,PROCESS_FAILED,,0,0,0,0,"solc 0.5.17: An error occurred during execution
+> command: `/root/.solcx/solc-v0.5.17 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:131:19: Error: Referenced declaration is neither modifier nor base class.
+    c"
+C019256,FEATURE_SUCCESS,0.5.17,1,1,0,0,
+C019257,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C019258,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C019259,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C019260,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C019261,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C019262,FEATURE_SUCCESS,0.4.11,4,4,0,0,
+C019263,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C019264,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C019265,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C019266,FEATURE_SUCCESS,0.5.17,6,6,0,1,
+C019267,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C019268,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C019269,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C019270,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C019271,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C019272,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C019273,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C019274,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C019275,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C019276,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C019277,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C019278,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C019279,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C019280,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: Runtime bytecode không hợp lệ || solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ || solc 0.5.17: An error occurred during execution
+> command: `/root/.solcx/solc-v0.5.17 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:108:39: Error: The state mutability modifier ""constant"" was removed in version  || solc 0.6.12: An error occurred during execution
+> command: `/root/.solcx/solc-v0.6.12 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+The state mutability modifier ""constant"" was removed in version 0.5.0. Use ""view"" or ""p || solc 0.7.6: An error occurred during execution
+> command: `/root/.solcx/solc-v0.7.6 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+   --> <stdin>:108:39:
+    |
+108 |   function isPricingS || solc 0.8.37: An error occurred during execution
+> command: `/root/.solcx/solc-v0.8.37 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+   --> <stdin>:108:39:
+    |
+108 |   function isPricing"
+C019281,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C019282,FEATURE_SUCCESS,0.5.17,15,15,0,5,
+C019283,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C019284,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C019285,FEATURE_SUCCESS,0.4.26,3,3,0,0,
+C019286,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C019287,FEATURE_SUCCESS,0.4.26,25,25,0,0,
+C019288,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C019289,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C019290,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C019291,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C019292,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C019293,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C019294,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C019295,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C019296,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C019297,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C019298,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C019299,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C019300,FEATURE_SUCCESS,0.5.17,1,1,0,0,

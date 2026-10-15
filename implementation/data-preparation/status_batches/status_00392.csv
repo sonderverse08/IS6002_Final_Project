@@ -1,0 +1,149 @@
+contract_id,status,compiler,runtime_contracts,metadata_removed,metadata_unverified,unknown_opcode_count,error
+C039101,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C039102,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C039103,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C039104,FEATURE_SUCCESS,0.5.17,7,7,0,0,
+C039105,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C039106,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C039107,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C039108,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C039109,FEATURE_SUCCESS,0.5.17,2,2,0,0,
+C039110,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C039111,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C039112,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C039113,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C039114,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C039115,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C039116,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C039117,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C039118,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C039119,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C039120,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C039121,FEATURE_SUCCESS,0.4.24,16,16,0,0,
+C039122,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C039123,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C039124,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C039125,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C039126,FEATURE_SUCCESS,0.4.24,3,3,0,5,
+C039127,FEATURE_SUCCESS,0.4.11,13,13,0,0,
+C039128,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C039129,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C039130,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C039131,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.11 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:11:1: Warning: Source file does not specify required compiler version!Consider  || solc 0.4.24: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.24 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:31:21: Warning: ""throw"" is deprecated in favour of ""revert()"", ""require()"" and  || solc 0.4.26: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.26 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:31:21: Warning: ""throw"" is deprecated in favour of ""revert()"", ""require()"" and  || solc 0.5.17: An error occurred during execution
+> command: `/root/.solcx/solc-v0.5.17 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:108:39: Error: The state mutability modifier ""constant"" was removed in version  || solc 0.6.12: An error occurred during execution
+> command: `/root/.solcx/solc-v0.6.12 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+The state mutability modifier ""constant"" was removed in version 0.5.0. Use ""view"" or ""p || solc 0.7.6: An error occurred during execution
+> command: `/root/.solcx/solc-v0.7.6 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+   --> <stdin>:108:39:
+    |
+108 |   function isPricingS || solc 0.8.37: An error occurred during execution
+> command: `/root/.solcx/solc-v0.8.37 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+   --> <stdin>:108:39:
+    |
+108 |   function isPricing"
+C039132,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C039133,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C039134,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C039135,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C039136,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C039137,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C039138,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C039139,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C039140,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C039141,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C039142,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C039143,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C039144,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C039145,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C039146,PROCESS_FAILED,,0,0,0,0,solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ
+C039147,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C039148,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C039149,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C039150,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C039151,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C039152,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C039153,FEATURE_SUCCESS,0.4.26,17,17,0,3,
+C039154,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C039155,FEATURE_SUCCESS,0.4.26,3,3,0,0,
+C039156,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C039157,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C039158,FEATURE_SUCCESS,0.5.17,10,10,0,0,
+C039159,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C039160,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C039161,FEATURE_SUCCESS,0.5.17,5,5,0,0,
+C039162,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C039163,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C039164,FEATURE_SUCCESS,0.5.17,2,2,0,0,
+C039165,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C039166,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C039167,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C039168,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C039169,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C039170,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C039171,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C039172,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C039173,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C039174,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C039175,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C039176,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C039177,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C039178,PROCESS_FAILED,,0,0,0,0,solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ
+C039179,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C039180,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C039181,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C039182,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C039183,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C039184,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C039185,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C039186,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C039187,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C039188,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C039189,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C039190,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C039191,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C039192,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C039193,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C039194,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C039195,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C039196,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C039197,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C039198,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C039199,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C039200,FEATURE_SUCCESS,0.4.24,2,2,0,0,

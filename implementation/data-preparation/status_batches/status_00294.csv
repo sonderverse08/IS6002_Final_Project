@@ -1,0 +1,138 @@
+contract_id,status,compiler,runtime_contracts,metadata_removed,metadata_unverified,unknown_opcode_count,error
+C029301,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C029302,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C029303,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C029304,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C029305,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C029306,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C029307,FEATURE_SUCCESS,0.4.24,13,13,0,36,
+C029308,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C029309,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C029310,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C029311,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C029312,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C029313,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C029314,FEATURE_SUCCESS,0.4.26,7,7,0,0,
+C029315,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C029316,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C029317,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C029318,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C029319,FEATURE_SUCCESS,0.4.26,3,3,0,0,
+C029320,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C029321,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C029322,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C029323,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C029324,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C029325,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C029326,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C029327,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C029328,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C029329,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C029330,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C029331,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C029332,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C029333,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C029334,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C029335,FEATURE_SUCCESS,0.5.17,1,1,0,0,
+C029336,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C029337,FEATURE_SUCCESS,0.4.24,4,4,0,1,
+C029338,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C029339,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C029340,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C029341,FEATURE_SUCCESS,0.5.17,1,1,0,0,
+C029342,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C029343,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C029344,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C029345,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C029346,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C029347,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C029348,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C029349,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C029350,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C029351,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C029352,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C029353,FEATURE_SUCCESS,0.4.24,13,13,0,13,
+C029354,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C029355,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C029356,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C029357,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C029358,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C029359,FEATURE_SUCCESS,0.4.24,10,10,0,0,
+C029360,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C029361,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C029362,FEATURE_SUCCESS,0.5.17,1,1,0,0,
+C029363,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C029364,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C029365,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C029366,FEATURE_SUCCESS,0.4.24,9,9,0,0,
+C029367,FEATURE_SUCCESS,0.4.24,13,13,0,0,
+C029368,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C029369,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C029370,FEATURE_SUCCESS,0.5.17,1,1,0,0,
+C029371,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C029372,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C029373,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C029374,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C029375,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C029376,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C029377,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C029378,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C029379,FEATURE_SUCCESS,0.4.24,12,12,0,9,
+C029380,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C029381,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C029382,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C029383,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C029384,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C029385,FEATURE_SUCCESS,0.4.24,11,11,0,0,
+C029386,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C029387,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C029388,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C029389,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C029390,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C029391,FEATURE_SUCCESS,0.5.17,1,1,0,0,
+C029392,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C029393,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C029394,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C029395,FEATURE_SUCCESS,0.5.17,2,2,0,0,
+C029396,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C029397,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.11 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:163:42: Error: Expected token LBrace got 'View'
+  function balanceOf(address wh || solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ || solc 0.5.17: An error occurred during execution
+> command: `/root/.solcx/solc-v0.5.17 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:204:39: Error: The state mutability modifier ""constant"" was removed in version  || solc 0.6.12: An error occurred during execution
+> command: `/root/.solcx/solc-v0.6.12 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+The state mutability modifier ""constant"" was removed in version 0.5.0. Use ""view"" or ""p || solc 0.7.6: An error occurred during execution
+> command: `/root/.solcx/solc-v0.7.6 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+   --> <stdin>:204:39:
+    |
+204 |   function isPricingS || solc 0.8.37: An error occurred during execution
+> command: `/root/.solcx/solc-v0.8.37 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+   --> <stdin>:204:39:
+    |
+204 |   function isPricing"
+C029398,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C029399,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C029400,FEATURE_SUCCESS,0.4.26,3,3,0,0,

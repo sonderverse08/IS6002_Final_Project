@@ -1,0 +1,151 @@
+contract_id,status,compiler,runtime_contracts,metadata_removed,metadata_unverified,unknown_opcode_count,error
+C011301,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C011302,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C011303,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C011304,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C011305,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C011306,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C011307,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C011308,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C011309,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C011310,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C011311,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C011312,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C011313,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C011314,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C011315,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C011316,FEATURE_SUCCESS,0.4.24,10,10,0,0,
+C011317,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C011318,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C011319,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C011320,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C011321,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C011322,FEATURE_SUCCESS,0.4.24,10,10,0,0,
+C011323,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C011324,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.11 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:373:37: Warning: This looks like an address but has an invalid checksum. If thi || solc 0.4.24: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.24 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:125:5: Warning: Use of the ""var"" keyword is deprecated.
+    var pending = m_pen || solc 0.4.26: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.26 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:125:5: Warning: Use of the ""var"" keyword is deprecated.
+    var pending = m_pen"
+C011325,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C011326,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C011327,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C011328,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C011329,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C011330,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C011331,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C011332,FEATURE_SUCCESS,0.5.17,3,3,0,0,
+C011333,FEATURE_SUCCESS,0.4.24,9,9,0,3,
+C011334,FEATURE_SUCCESS,0.4.11,4,4,0,0,
+C011335,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C011336,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C011337,FEATURE_SUCCESS,0.4.24,9,9,0,0,
+C011338,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C011339,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C011340,FEATURE_SUCCESS,0.4.11,8,8,0,0,
+C011341,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C011342,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C011343,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C011344,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C011345,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C011346,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C011347,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C011348,FEATURE_SUCCESS,0.4.11,5,5,0,0,
+C011349,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C011350,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C011351,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C011352,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C011353,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C011354,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C011355,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C011356,FEATURE_SUCCESS,0.5.17,3,3,0,0,
+C011357,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C011358,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C011359,FEATURE_SUCCESS,0.4.24,44,44,0,31,
+C011360,FEATURE_SUCCESS,0.4.24,9,9,0,0,
+C011361,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C011362,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C011363,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C011364,FEATURE_SUCCESS,0.5.17,6,6,0,0,
+C011365,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C011366,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C011367,FEATURE_SUCCESS,0.5.17,1,1,0,0,
+C011368,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C011369,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: Runtime bytecode không hợp lệ || solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ || solc 0.5.17: An error occurred during execution
+> command: `/root/.solcx/solc-v0.5.17 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:108:39: Error: The state mutability modifier ""constant"" was removed in version  || solc 0.6.12: An error occurred during execution
+> command: `/root/.solcx/solc-v0.6.12 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+The state mutability modifier ""constant"" was removed in version 0.5.0. Use ""view"" or ""p || solc 0.7.6: An error occurred during execution
+> command: `/root/.solcx/solc-v0.7.6 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+   --> <stdin>:108:39:
+    |
+108 |   function isPricingS || solc 0.8.37: An error occurred during execution
+> command: `/root/.solcx/solc-v0.8.37 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+   --> <stdin>:108:39:
+    |
+108 |   function isPricing"
+C011370,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C011371,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C011372,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C011373,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C011374,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C011375,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C011376,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C011377,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C011378,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C011379,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C011380,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C011381,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C011382,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C011383,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C011384,FEATURE_SUCCESS,0.4.11,4,4,0,0,
+C011385,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C011386,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C011387,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C011388,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C011389,FEATURE_SUCCESS,0.4.11,4,4,0,0,
+C011390,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C011391,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C011392,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C011393,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C011394,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C011395,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C011396,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C011397,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C011398,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C011399,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C011400,FEATURE_SUCCESS,0.4.24,1,1,0,0,

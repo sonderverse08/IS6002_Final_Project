@@ -1,0 +1,155 @@
+contract_id,status,compiler,runtime_contracts,metadata_removed,metadata_unverified,unknown_opcode_count,error
+C003101,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C003102,FEATURE_SUCCESS,0.5.17,15,15,0,1,
+C003103,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C003104,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C003105,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C003106,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C003107,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003108,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C003109,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003110,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C003111,FEATURE_SUCCESS,0.5.17,2,2,0,0,
+C003112,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C003113,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C003114,FEATURE_SUCCESS,0.4.11,4,4,0,11,
+C003115,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C003116,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C003117,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C003118,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003119,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C003120,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003121,FEATURE_SUCCESS,0.4.24,13,13,0,0,
+C003122,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C003123,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C003124,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003125,FEATURE_SUCCESS,0.4.24,13,13,0,0,
+C003126,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C003127,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C003128,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003129,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C003130,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C003131,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C003132,FEATURE_SUCCESS,0.4.24,21,21,0,6,
+C003133,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003134,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003135,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C003136,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C003137,PROCESS_FAILED,,0,0,0,0,"solc 0.4.24: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.24 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:40:5: Warning: Defining constructors as functions with the same name as the con || solc 0.4.26: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.26 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:40:5: Warning: Defining constructors as functions with the same name as the con"
+C003138,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C003139,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C003140,FEATURE_SUCCESS,0.4.24,4,4,0,8,
+C003141,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C003142,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C003143,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C003144,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C003145,FEATURE_SUCCESS,0.4.24,11,11,0,0,
+C003146,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003147,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: Runtime bytecode không hợp lệ || solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ || solc 0.5.17: An error occurred during execution
+> command: `/root/.solcx/solc-v0.5.17 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:108:39: Error: The state mutability modifier ""constant"" was removed in version  || solc 0.6.12: An error occurred during execution
+> command: `/root/.solcx/solc-v0.6.12 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+The state mutability modifier ""constant"" was removed in version 0.5.0. Use ""view"" or ""p || solc 0.7.6: An error occurred during execution
+> command: `/root/.solcx/solc-v0.7.6 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+   --> <stdin>:108:39:
+    |
+108 |   function isPricingS || solc 0.8.37: An error occurred during execution
+> command: `/root/.solcx/solc-v0.8.37 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+   --> <stdin>:108:39:
+    |
+108 |   function isPricing"
+C003148,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C003149,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003150,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C003151,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003152,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C003153,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003154,FEATURE_SUCCESS,0.5.17,9,9,0,0,
+C003155,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C003156,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C003157,FEATURE_SUCCESS,0.4.26,4,4,0,0,
+C003158,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003159,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C003160,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C003161,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C003162,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003163,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C003164,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C003165,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C003166,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C003167,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003168,FEATURE_SUCCESS,0.4.24,12,12,0,0,
+C003169,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C003170,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003171,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C003172,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003173,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003174,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C003175,FEATURE_SUCCESS,0.4.24,3,3,0,11,
+C003176,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C003177,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C003178,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C003179,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C003180,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C003181,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C003182,FEATURE_SUCCESS,0.4.11,4,4,0,0,
+C003183,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003184,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C003185,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C003186,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C003187,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003188,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C003189,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C003190,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C003191,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C003192,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C003193,FEATURE_SUCCESS,0.4.11,4,4,0,0,
+C003194,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C003195,FEATURE_SUCCESS,0.4.24,17,17,0,0,
+C003196,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C003197,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C003198,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C003199,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C003200,PROCESS_FAILED,,0,0,0,0,"solc 0.4.24: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.24 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+No description given for param newOwner || solc 0.4.26: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.26 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+No description given for param newOwner"

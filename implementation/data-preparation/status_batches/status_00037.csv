@@ -1,0 +1,187 @@
+contract_id,status,compiler,runtime_contracts,metadata_removed,metadata_unverified,unknown_opcode_count,error
+C003601,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C003602,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C003603,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C003604,FEATURE_SUCCESS,0.4.24,13,13,0,0,
+C003605,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003606,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003607,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C003608,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C003609,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C003610,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C003611,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C003612,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C003613,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.11 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:49:60: Error: Expected token LBrace got reserved keyword 'Pure'
+    function me || solc 0.4.24: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.24 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:755:1: Error: Source file requires different compiler version (current compiler || solc 0.4.26: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.26 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:755:1: Error: Source file requires different compiler version (current compiler || solc 0.5.17: An error occurred during execution
+> command: `/root/.solcx/solc-v0.5.17 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:1:1: Error: Source file requires different compiler version (current compiler i || solc 0.6.12: An error occurred during execution
+> command: `/root/.solcx/solc-v0.6.12 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Source file requires different compiler version (current compiler is 0.6.12+commit.27d5 || solc 0.7.6: An error occurred during execution
+> command: `/root/.solcx/solc-v0.7.6 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Source file requires different compiler version (current compiler is 0.7.6+commit.733829 || solc 0.8.37: An error occurred during execution
+> command: `/root/.solcx/solc-v0.8.37 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Source file requires different compiler version (current compiler is 0.8.37+commit.f401"
+C003614,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C003615,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C003616,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C003617,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C003618,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C003619,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003620,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C003621,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003622,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C003623,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C003624,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003625,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003626,PROCESS_FAILED,,0,0,0,0,"solc 0.5.17: An error occurred during execution
+> command: `/root/.solcx/solc-v0.5.17 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Documented parameter ""_flag"" not found in the parameter list of the function."
+C003627,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C003628,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C003629,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C003630,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C003631,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C003632,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C003633,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C003634,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C003635,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003636,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C003637,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C003638,FEATURE_SUCCESS,0.4.24,14,14,0,0,
+C003639,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C003640,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003641,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C003642,FEATURE_SUCCESS,0.4.26,4,4,0,0,
+C003643,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C003644,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C003645,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C003646,FEATURE_SUCCESS,0.4.24,9,9,0,0,
+C003647,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C003648,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003649,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C003650,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C003651,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003652,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C003653,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C003654,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C003655,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C003656,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003657,FEATURE_SUCCESS,0.4.24,7,7,0,11,
+C003658,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003659,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C003660,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C003661,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003662,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C003663,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C003664,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C003665,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C003666,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003667,FEATURE_SUCCESS,0.4.24,11,11,0,0,
+C003668,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C003669,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003670,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003671,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C003672,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C003673,FEATURE_SUCCESS,0.4.26,3,3,0,0,
+C003674,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C003675,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003676,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C003677,FEATURE_SUCCESS,0.4.24,9,9,0,0,
+C003678,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C003679,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003680,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003681,FEATURE_SUCCESS,0.4.26,4,4,0,0,
+C003682,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C003683,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C003684,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C003685,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C003686,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003687,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C003688,FEATURE_SUCCESS,0.4.24,11,11,0,0,
+C003689,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C003690,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C003691,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003692,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C003693,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003694,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C003695,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C003696,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C003697,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003698,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C003699,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.11 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:33:33: Error: Expected token LBrace got 'View'
+  function totalSupply() public  || solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ || solc 0.5.17: An error occurred during execution
+> command: `/root/.solcx/solc-v0.5.17 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:328:29: Error: The state mutability modifier ""constant"" was removed in version  || solc 0.6.12: An error occurred during execution
+> command: `/root/.solcx/solc-v0.6.12 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+The state mutability modifier ""constant"" was removed in version 0.5.0. Use ""view"" or ""p || solc 0.7.6: An error occurred during execution
+> command: `/root/.solcx/solc-v0.7.6 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+   --> <stdin>:328:29:
+    |
+328 |   function isToken()  || solc 0.8.37: An error occurred during execution
+> command: `/root/.solcx/solc-v0.8.37 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+   --> <stdin>:328:29:
+    |
+328 |   function isToken()"
+C003700,FEATURE_SUCCESS,0.4.24,8,8,0,0,

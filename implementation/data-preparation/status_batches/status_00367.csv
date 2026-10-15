@@ -1,0 +1,138 @@
+contract_id,status,compiler,runtime_contracts,metadata_removed,metadata_unverified,unknown_opcode_count,error
+C036601,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C036602,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C036603,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C036604,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C036605,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C036606,FEATURE_SUCCESS,0.4.24,17,17,0,0,
+C036607,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C036608,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C036609,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C036610,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C036611,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C036612,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C036613,FEATURE_SUCCESS,0.5.17,3,3,0,0,
+C036614,FEATURE_SUCCESS,0.5.17,2,2,0,0,
+C036615,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C036616,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C036617,FEATURE_SUCCESS,0.4.24,4,4,0,14,
+C036618,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C036619,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C036620,FEATURE_SUCCESS,0.5.17,4,4,0,1,
+C036621,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C036622,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C036623,FEATURE_SUCCESS,0.4.11,4,4,0,0,
+C036624,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C036625,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C036626,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C036627,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.11 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:66:33: Error: Expected token LBrace got 'View'
+  function totalSupply() public  || solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ || solc 0.5.17: An error occurred during execution
+> command: `/root/.solcx/solc-v0.5.17 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:361:29: Error: The state mutability modifier ""constant"" was removed in version  || solc 0.6.12: An error occurred during execution
+> command: `/root/.solcx/solc-v0.6.12 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+The state mutability modifier ""constant"" was removed in version 0.5.0. Use ""view"" or ""p || solc 0.7.6: An error occurred during execution
+> command: `/root/.solcx/solc-v0.7.6 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+   --> <stdin>:361:29:
+    |
+361 |   function isToken()  || solc 0.8.37: An error occurred during execution
+> command: `/root/.solcx/solc-v0.8.37 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+   --> <stdin>:361:29:
+    |
+361 |   function isToken()"
+C036628,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C036629,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C036630,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C036631,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C036632,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C036633,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C036634,FEATURE_SUCCESS,0.4.11,9,9,0,0,
+C036635,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C036636,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C036637,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C036638,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C036639,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C036640,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C036641,FEATURE_SUCCESS,0.4.26,3,3,0,0,
+C036642,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C036643,FEATURE_SUCCESS,0.5.17,1,1,0,0,
+C036644,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C036645,FEATURE_SUCCESS,0.4.24,10,10,0,0,
+C036646,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C036647,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C036648,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C036649,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C036650,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C036651,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C036652,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C036653,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C036654,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C036655,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C036656,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C036657,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C036658,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C036659,FEATURE_SUCCESS,0.4.11,6,6,0,94,
+C036660,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C036661,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C036662,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C036663,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C036664,FEATURE_SUCCESS,0.5.17,1,1,0,0,
+C036665,FEATURE_SUCCESS,0.4.24,13,13,0,0,
+C036666,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C036667,FEATURE_SUCCESS,0.5.17,4,4,0,0,
+C036668,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C036669,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C036670,FEATURE_SUCCESS,0.4.24,16,16,0,13,
+C036671,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C036672,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C036673,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C036674,FEATURE_SUCCESS,0.5.17,2,2,0,0,
+C036675,FEATURE_SUCCESS,0.5.17,1,1,0,0,
+C036676,FEATURE_SUCCESS,0.5.17,2,2,0,0,
+C036677,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C036678,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C036679,FEATURE_SUCCESS,0.4.11,9,9,0,19,
+C036680,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C036681,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C036682,FEATURE_SUCCESS,0.5.17,3,3,0,0,
+C036683,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C036684,FEATURE_SUCCESS,0.4.24,14,14,0,0,
+C036685,FEATURE_SUCCESS,0.4.24,8,8,0,6,
+C036686,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C036687,FEATURE_SUCCESS,0.4.11,3,3,0,10,
+C036688,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C036689,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C036690,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C036691,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C036692,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C036693,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C036694,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C036695,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C036696,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C036697,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C036698,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C036699,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C036700,FEATURE_SUCCESS,0.4.24,3,3,0,0,

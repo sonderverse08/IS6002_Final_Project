@@ -1,0 +1,186 @@
+contract_id,status,compiler,runtime_contracts,metadata_removed,metadata_unverified,unknown_opcode_count,error
+C032401,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C032402,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C032403,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C032404,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C032405,FEATURE_SUCCESS,0.5.17,6,6,0,0,
+C032406,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C032407,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C032408,FEATURE_SUCCESS,0.4.24,10,10,0,0,
+C032409,FEATURE_SUCCESS,0.4.24,5,5,0,5,
+C032410,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C032411,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C032412,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C032413,FEATURE_SUCCESS,0.4.11,12,12,0,0,
+C032414,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C032415,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C032416,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C032417,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C032418,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C032419,FEATURE_SUCCESS,0.5.17,7,7,0,1,
+C032420,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C032421,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C032422,FEATURE_SUCCESS,0.4.26,3,3,0,0,
+C032423,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C032424,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C032425,FEATURE_SUCCESS,0.4.24,9,9,0,0,
+C032426,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C032427,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C032428,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C032429,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.11 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:60:7: Warning: This looks like an address but has an invalid checksum. If this  || solc 0.4.24: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.24 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:59:1: Warning: Defining constructors as functions with the same name as the con || solc 0.4.26: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.26 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:59:1: Warning: Defining constructors as functions with the same name as the con"
+C032430,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C032431,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C032432,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C032433,FEATURE_SUCCESS,0.5.17,2,2,0,0,
+C032434,FEATURE_SUCCESS,0.4.24,11,11,0,0,
+C032435,FEATURE_SUCCESS,0.4.24,10,10,0,0,
+C032436,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C032437,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C032438,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C032439,FEATURE_SUCCESS,0.5.17,6,6,0,0,
+C032440,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C032441,FEATURE_SUCCESS,0.5.17,6,6,0,5,
+C032442,FEATURE_SUCCESS,0.4.24,13,13,0,0,
+C032443,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C032444,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C032445,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C032446,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C032447,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C032448,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C032449,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C032450,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C032451,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C032452,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C032453,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C032454,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C032455,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C032456,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C032457,FEATURE_SUCCESS,0.5.17,8,8,0,0,
+C032458,FEATURE_SUCCESS,0.5.17,3,3,0,5,
+C032459,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C032460,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C032461,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C032462,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C032463,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C032464,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C032465,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.11 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:31:47: Error: Expected token LBrace got 'View'
+    function getCid(string memor || solc 0.4.24: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.24 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:1:1: Error: Source file requires different compiler version (current compiler i || solc 0.4.26: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.26 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:1:1: Error: Source file requires different compiler version (current compiler i || solc 0.5.17: An error occurred during execution
+> command: `/root/.solcx/solc-v0.5.17 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:1:1: Error: Source file requires different compiler version (current compiler i || solc 0.6.12: An error occurred during execution
+> command: `/root/.solcx/solc-v0.6.12 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Source file requires different compiler version (current compiler is 0.6.12+commit.27d5 || solc 0.7.6: An error occurred during execution
+> command: `/root/.solcx/solc-v0.7.6 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Source file requires different compiler version (current compiler is 0.7.6+commit.733829 || solc 0.8.37: An error occurred during execution
+> command: `/root/.solcx/solc-v0.8.37 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Source file requires different compiler version (current compiler is 0.8.37+commit.f401"
+C032466,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C032467,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C032468,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C032469,FEATURE_SUCCESS,0.5.17,16,16,0,5,
+C032470,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C032471,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C032472,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C032473,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C032474,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C032475,FEATURE_SUCCESS,0.4.26,2,2,0,12,
+C032476,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C032477,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C032478,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C032479,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C032480,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C032481,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C032482,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C032483,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C032484,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C032485,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C032486,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C032487,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C032488,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.11 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:67:11: Error: Expected primary expression.
+votingFee=0000000000000000;
+         || solc 0.4.24: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.24 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:67:11: Error: Expected primary expression.
+votingFee=0000000000000000;
+         || solc 0.4.26: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.26 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:67:11: Error: Expected primary expression.
+votingFee=0000000000000000;
+        "
+C032489,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C032490,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C032491,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C032492,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C032493,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C032494,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C032495,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C032496,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C032497,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C032498,FEATURE_SUCCESS,0.4.26,7,7,0,0,
+C032499,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C032500,FEATURE_SUCCESS,0.4.24,3,3,0,0,

@@ -1,0 +1,149 @@
+contract_id,status,compiler,runtime_contracts,metadata_removed,metadata_unverified,unknown_opcode_count,error
+C015501,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C015502,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C015503,FEATURE_SUCCESS,0.4.24,15,15,0,0,
+C015504,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C015505,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C015506,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C015507,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C015508,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C015509,FEATURE_SUCCESS,0.5.17,5,5,0,0,
+C015510,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C015511,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C015512,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C015513,FEATURE_SUCCESS,0.4.24,11,11,0,0,
+C015514,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C015515,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C015516,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015517,FEATURE_SUCCESS,0.4.11,2,2,0,4,
+C015518,FEATURE_SUCCESS,0.4.24,9,9,0,0,
+C015519,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C015520,FEATURE_SUCCESS,0.4.11,6,6,0,0,
+C015521,FEATURE_SUCCESS,0.4.24,9,9,0,0,
+C015522,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C015523,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015524,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C015525,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C015526,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015527,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C015528,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C015529,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C015530,FEATURE_SUCCESS,0.4.26,4,4,0,0,
+C015531,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C015532,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C015533,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C015534,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015535,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C015536,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015537,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C015538,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C015539,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C015540,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C015541,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C015542,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C015543,FEATURE_SUCCESS,0.5.17,14,14,0,6,
+C015544,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C015545,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C015546,FEATURE_SUCCESS,0.4.26,3,3,0,0,
+C015547,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C015548,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C015549,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C015550,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C015551,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C015552,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C015553,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C015554,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C015555,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015556,FEATURE_SUCCESS,0.4.24,13,13,0,0,
+C015557,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C015558,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015559,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015560,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015561,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015562,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C015563,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.11 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:66:9: Error: Uninitialized mapping. Mappings cannot be created dynamically, you || solc 0.4.24: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.24 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:59:5: Warning: Defining constructors as functions with the same name as the con || solc 0.4.26: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.26 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:59:5: Warning: Defining constructors as functions with the same name as the con"
+C015564,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C015565,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C015566,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015567,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C015568,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C015569,FEATURE_SUCCESS,0.4.24,14,14,0,0,
+C015570,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015571,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C015572,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C015573,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: Runtime bytecode không hợp lệ || solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ || solc 0.5.17: An error occurred during execution
+> command: `/root/.solcx/solc-v0.5.17 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:7:35: Error: The state mutability modifier ""constant"" was removed in version 0. || solc 0.6.12: An error occurred during execution
+> command: `/root/.solcx/solc-v0.6.12 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+The state mutability modifier ""constant"" was removed in version 0.5.0. Use ""view"" or ""p || solc 0.7.6: An error occurred during execution
+> command: `/root/.solcx/solc-v0.7.6 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+ --> <stdin>:7:35:
+  |
+7 |   function balanceOf(address  || solc 0.8.37: An error occurred during execution
+> command: `/root/.solcx/solc-v0.8.37 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+ --> <stdin>:7:35:
+  |
+7 |   function balanceOf(address"
+C015574,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C015575,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C015576,FEATURE_SUCCESS,0.4.24,10,10,0,0,
+C015577,FEATURE_SUCCESS,0.4.26,14,14,0,0,
+C015578,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C015579,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C015580,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C015581,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C015582,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C015583,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C015584,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C015585,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C015586,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C015587,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C015588,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C015589,FEATURE_SUCCESS,0.4.24,8,8,0,2,
+C015590,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C015591,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015592,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C015593,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C015594,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C015595,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C015596,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C015597,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C015598,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C015599,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C015600,FEATURE_SUCCESS,0.4.24,1,1,0,0,

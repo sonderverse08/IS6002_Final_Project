@@ -1,0 +1,133 @@
+contract_id,status,compiler,runtime_contracts,metadata_removed,metadata_unverified,unknown_opcode_count,error
+C016801,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C016802,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C016803,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C016804,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C016805,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C016806,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C016807,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C016808,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C016809,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C016810,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C016811,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C016812,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C016813,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C016814,FEATURE_SUCCESS,0.4.11,9,9,0,1,
+C016815,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C016816,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C016817,FEATURE_SUCCESS,0.5.17,3,3,0,0,
+C016818,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C016819,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C016820,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C016821,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C016822,FEATURE_SUCCESS,0.5.17,5,5,0,0,
+C016823,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C016824,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C016825,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C016826,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C016827,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C016828,FEATURE_SUCCESS,0.4.24,15,15,0,0,
+C016829,FEATURE_SUCCESS,0.4.11,5,5,0,0,
+C016830,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C016831,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C016832,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C016833,FEATURE_SUCCESS,0.4.26,7,7,0,0,
+C016834,PROCESS_FAILED,,0,0,0,0,"solc 0.4.24: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.24 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Internal compiler error during compilation:
+/solidity/libsolidity/analysis/TypeChecker. || solc 0.4.26: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.26 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Internal compiler error during compilation:
+/solidity/libsolidity/analysis/TypeChecker."
+C016835,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C016836,FEATURE_SUCCESS,0.5.17,2,2,0,0,
+C016837,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C016838,FEATURE_SUCCESS,0.5.17,5,5,0,0,
+C016839,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C016840,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C016841,PROCESS_FAILED,,0,0,0,0,solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ
+C016842,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C016843,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C016844,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C016845,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C016846,PROCESS_FAILED,,0,0,0,0,solc 0.4.24: Runtime bytecode không hợp lệ
+C016847,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C016848,PROCESS_FAILED,,0,0,0,0,solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ
+C016849,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C016850,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.11 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:60:7: Warning: This looks like an address but has an invalid checksum. If this  || solc 0.4.24: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.24 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:59:1: Warning: Defining constructors as functions with the same name as the con || solc 0.4.26: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.26 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:59:1: Warning: Defining constructors as functions with the same name as the con"
+C016851,FEATURE_SUCCESS,0.5.17,1,1,0,0,
+C016852,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C016853,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C016854,FEATURE_SUCCESS,0.5.17,6,6,0,0,
+C016855,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C016856,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C016857,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C016858,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C016859,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C016860,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C016861,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C016862,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C016863,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C016864,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C016865,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C016866,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C016867,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C016868,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C016869,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C016870,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C016871,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C016872,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C016873,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C016874,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C016875,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C016876,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C016877,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C016878,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C016879,FEATURE_SUCCESS,0.4.26,3,3,0,0,
+C016880,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C016881,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C016882,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C016883,FEATURE_SUCCESS,0.5.17,1,1,0,0,
+C016884,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C016885,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C016886,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C016887,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C016888,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C016889,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C016890,FEATURE_SUCCESS,0.4.11,6,6,0,0,
+C016891,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C016892,FEATURE_SUCCESS,0.4.24,11,11,0,0,
+C016893,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C016894,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C016895,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C016896,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C016897,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C016898,FEATURE_SUCCESS,0.5.17,2,2,0,0,
+C016899,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C016900,FEATURE_SUCCESS,0.4.24,9,9,0,0,

@@ -1,0 +1,161 @@
+contract_id,status,compiler,runtime_contracts,metadata_removed,metadata_unverified,unknown_opcode_count,error
+C009401,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C009402,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C009403,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C009404,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C009405,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C009406,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C009407,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C009408,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C009409,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C009410,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C009411,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C009412,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C009413,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C009414,FEATURE_SUCCESS,0.4.24,16,16,0,0,
+C009415,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C009416,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C009417,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C009418,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C009419,FEATURE_SUCCESS,0.4.24,7,7,0,7,
+C009420,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C009421,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C009422,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C009423,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C009424,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C009425,FEATURE_SUCCESS,0.4.24,4,4,0,13,
+C009426,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C009427,FEATURE_SUCCESS,0.4.11,8,8,0,10,
+C009428,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C009429,FEATURE_SUCCESS,0.4.24,9,9,0,0,
+C009430,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C009431,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C009432,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C009433,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C009434,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C009435,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: Runtime bytecode không hợp lệ || solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ || solc 0.5.17: An error occurred during execution
+> command: `/root/.solcx/solc-v0.5.17 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:7:35: Error: The state mutability modifier ""constant"" was removed in version 0. || solc 0.6.12: An error occurred during execution
+> command: `/root/.solcx/solc-v0.6.12 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+The state mutability modifier ""constant"" was removed in version 0.5.0. Use ""view"" or ""p || solc 0.7.6: An error occurred during execution
+> command: `/root/.solcx/solc-v0.7.6 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+ --> <stdin>:7:35:
+  |
+7 |   function balanceOf(address  || solc 0.8.37: An error occurred during execution
+> command: `/root/.solcx/solc-v0.8.37 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+ --> <stdin>:7:35:
+  |
+7 |   function balanceOf(address"
+C009436,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C009437,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C009438,FEATURE_SUCCESS,0.4.24,9,9,0,2,
+C009439,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C009440,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C009441,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C009442,FEATURE_SUCCESS,0.5.17,3,3,0,0,
+C009443,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C009444,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C009445,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C009446,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C009447,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C009448,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C009449,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C009450,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: Runtime bytecode không hợp lệ || solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ || solc 0.5.17: An error occurred during execution
+> command: `/root/.solcx/solc-v0.5.17 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:108:39: Error: The state mutability modifier ""constant"" was removed in version  || solc 0.6.12: An error occurred during execution
+> command: `/root/.solcx/solc-v0.6.12 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+The state mutability modifier ""constant"" was removed in version 0.5.0. Use ""view"" or ""p || solc 0.7.6: An error occurred during execution
+> command: `/root/.solcx/solc-v0.7.6 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+   --> <stdin>:108:39:
+    |
+108 |   function isPricingS || solc 0.8.37: An error occurred during execution
+> command: `/root/.solcx/solc-v0.8.37 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+   --> <stdin>:108:39:
+    |
+108 |   function isPricing"
+C009451,FEATURE_SUCCESS,0.4.24,3,3,0,3,
+C009452,FEATURE_SUCCESS,0.5.17,5,5,0,0,
+C009453,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C009454,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C009455,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C009456,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C009457,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C009458,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C009459,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C009460,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C009461,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C009462,FEATURE_SUCCESS,0.4.24,5,5,0,6,
+C009463,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C009464,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C009465,FEATURE_SUCCESS,0.4.11,2,2,0,8,
+C009466,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C009467,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C009468,FEATURE_SUCCESS,0.5.17,1,1,0,0,
+C009469,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C009470,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C009471,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C009472,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C009473,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C009474,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C009475,FEATURE_SUCCESS,0.4.24,3,3,0,4,
+C009476,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C009477,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C009478,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C009479,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C009480,FEATURE_SUCCESS,0.4.11,6,6,0,0,
+C009481,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C009482,FEATURE_SUCCESS,0.4.24,11,11,0,4,
+C009483,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C009484,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C009485,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C009486,FEATURE_SUCCESS,0.4.24,14,14,0,0,
+C009487,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C009488,FEATURE_SUCCESS,0.5.17,1,1,0,0,
+C009489,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C009490,FEATURE_SUCCESS,0.4.26,3,3,0,0,
+C009491,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C009492,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C009493,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C009494,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C009495,FEATURE_SUCCESS,0.4.26,6,6,0,0,
+C009496,FEATURE_SUCCESS,0.4.24,5,5,0,5,
+C009497,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C009498,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C009499,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C009500,FEATURE_SUCCESS,0.4.24,7,7,0,0,

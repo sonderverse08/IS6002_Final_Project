@@ -1,0 +1,138 @@
+contract_id,status,compiler,runtime_contracts,metadata_removed,metadata_unverified,unknown_opcode_count,error
+C033501,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C033502,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C033503,FEATURE_SUCCESS,0.4.24,3,3,0,5,
+C033504,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C033505,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C033506,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C033507,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C033508,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C033509,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C033510,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.11 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:33:33: Error: Expected token LBrace got 'View'
+  function totalSupply() public  || solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ || solc 0.5.17: An error occurred during execution
+> command: `/root/.solcx/solc-v0.5.17 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:338:29: Error: The state mutability modifier ""constant"" was removed in version  || solc 0.6.12: An error occurred during execution
+> command: `/root/.solcx/solc-v0.6.12 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+The state mutability modifier ""constant"" was removed in version 0.5.0. Use ""view"" or ""p || solc 0.7.6: An error occurred during execution
+> command: `/root/.solcx/solc-v0.7.6 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+   --> <stdin>:338:29:
+    |
+338 |   function isToken()  || solc 0.8.37: An error occurred during execution
+> command: `/root/.solcx/solc-v0.8.37 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+   --> <stdin>:338:29:
+    |
+338 |   function isToken()"
+C033511,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C033512,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C033513,FEATURE_SUCCESS,0.4.24,9,9,0,0,
+C033514,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C033515,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C033516,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C033517,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C033518,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C033519,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C033520,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C033521,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C033522,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C033523,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C033524,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C033525,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C033526,FEATURE_SUCCESS,0.4.11,6,6,0,0,
+C033527,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C033528,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C033529,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C033530,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C033531,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C033532,FEATURE_SUCCESS,0.4.24,10,10,0,0,
+C033533,FEATURE_SUCCESS,0.5.17,8,8,0,0,
+C033534,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C033535,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C033536,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C033537,FEATURE_SUCCESS,0.5.17,1,1,0,0,
+C033538,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C033539,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C033540,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C033541,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C033542,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C033543,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C033544,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C033545,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C033546,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C033547,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C033548,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C033549,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C033550,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C033551,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C033552,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C033553,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C033554,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C033555,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C033556,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C033557,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C033558,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C033559,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C033560,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C033561,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C033562,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C033563,FEATURE_SUCCESS,0.4.24,2,2,0,8,
+C033564,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C033565,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C033566,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C033567,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C033568,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C033569,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C033570,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C033571,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C033572,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C033573,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C033574,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C033575,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C033576,FEATURE_SUCCESS,0.5.17,1,1,0,0,
+C033577,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C033578,FEATURE_SUCCESS,0.4.11,6,6,0,0,
+C033579,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C033580,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C033581,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C033582,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C033583,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C033584,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C033585,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C033586,PROCESS_FAILED,,0,0,0,0,solc 0.4.11: Runtime bytecode không hợp lệ || solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ
+C033587,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C033588,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C033589,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C033590,FEATURE_SUCCESS,0.4.26,3,3,0,0,
+C033591,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C033592,FEATURE_SUCCESS,0.5.17,3,3,0,0,
+C033593,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C033594,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C033595,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C033596,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C033597,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C033598,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C033599,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C033600,FEATURE_SUCCESS,0.4.24,3,3,0,0,

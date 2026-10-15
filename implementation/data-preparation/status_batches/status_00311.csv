@@ -1,0 +1,136 @@
+contract_id,status,compiler,runtime_contracts,metadata_removed,metadata_unverified,unknown_opcode_count,error
+C031001,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C031002,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C031003,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C031004,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C031005,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C031006,FEATURE_SUCCESS,0.4.24,11,11,0,0,
+C031007,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C031008,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C031009,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C031010,FEATURE_SUCCESS,0.4.26,3,3,0,0,
+C031011,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C031012,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C031013,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C031014,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C031015,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C031016,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C031017,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C031018,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C031019,FEATURE_SUCCESS,0.4.11,4,4,0,0,
+C031020,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C031021,FEATURE_SUCCESS,0.5.17,1,1,0,0,
+C031022,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C031023,FEATURE_SUCCESS,0.4.24,7,7,0,2,
+C031024,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C031025,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C031026,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C031027,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C031028,FEATURE_SUCCESS,0.4.11,7,7,0,0,
+C031029,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C031030,PROCESS_FAILED,,0,0,0,0,solc 0.4.11: Runtime bytecode không hợp lệ || solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ
+C031031,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C031032,FEATURE_SUCCESS,0.4.26,4,4,0,0,
+C031033,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C031034,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C031035,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C031036,FEATURE_SUCCESS,0.4.26,3,3,0,0,
+C031037,FEATURE_SUCCESS,0.4.26,3,3,0,0,
+C031038,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C031039,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C031040,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C031041,FEATURE_SUCCESS,0.5.17,2,2,0,0,
+C031042,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C031043,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C031044,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C031045,FEATURE_SUCCESS,0.5.17,3,3,0,0,
+C031046,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C031047,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C031048,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C031049,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C031050,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C031051,FEATURE_SUCCESS,0.4.26,3,3,0,0,
+C031052,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C031053,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C031054,FEATURE_SUCCESS,0.5.17,2,2,0,0,
+C031055,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C031056,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C031057,FEATURE_SUCCESS,0.4.24,10,10,0,0,
+C031058,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C031059,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C031060,FEATURE_SUCCESS,0.4.24,16,16,0,0,
+C031061,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C031062,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C031063,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C031064,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C031065,FEATURE_SUCCESS,0.4.24,11,11,0,0,
+C031066,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C031067,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C031068,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C031069,FEATURE_SUCCESS,0.4.24,13,13,0,0,
+C031070,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C031071,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C031072,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C031073,FEATURE_SUCCESS,0.4.24,12,12,0,0,
+C031074,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C031075,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C031076,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C031077,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C031078,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C031079,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C031080,FEATURE_SUCCESS,0.4.24,9,9,0,0,
+C031081,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C031082,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C031083,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C031084,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C031085,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C031086,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C031087,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C031088,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C031089,PROCESS_FAILED,,0,0,0,0,"solc 0.4.24: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.24 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+No description given for param newOwner
+No description given for param _investor || solc 0.4.26: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.26 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+No description given for param newOwner
+No description given for param _investor"
+C031090,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C031091,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C031092,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C031093,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C031094,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C031095,FEATURE_SUCCESS,0.4.11,6,6,0,0,
+C031096,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C031097,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C031098,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C031099,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C031100,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.11 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:411:14: Error: Unbalanced stack at the end of a block: 1 surplus item(s).
+    a || solc 0.4.24: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.24 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:125:5: Warning: Use of the ""var"" keyword is deprecated.
+    var pending = m_pen || solc 0.4.26: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.26 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:125:5: Warning: Use of the ""var"" keyword is deprecated.
+    var pending = m_pen"

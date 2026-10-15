@@ -1,0 +1,144 @@
+contract_id,status,compiler,runtime_contracts,metadata_removed,metadata_unverified,unknown_opcode_count,error
+C010501,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C010502,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C010503,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C010504,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C010505,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C010506,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C010507,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C010508,FEATURE_SUCCESS,0.4.24,12,12,0,0,
+C010509,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C010510,FEATURE_SUCCESS,0.4.11,2,2,0,5,
+C010511,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C010512,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C010513,FEATURE_SUCCESS,0.4.24,15,15,0,0,
+C010514,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C010515,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C010516,FEATURE_SUCCESS,0.4.11,4,4,0,0,
+C010517,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C010518,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C010519,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C010520,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C010521,FEATURE_SUCCESS,0.4.24,10,10,0,0,
+C010522,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C010523,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C010524,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C010525,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C010526,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C010527,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C010528,FEATURE_SUCCESS,0.4.11,4,4,0,0,
+C010529,PROCESS_FAILED,,0,0,0,0,solc 0.5.17: Runtime bytecode không hợp lệ
+C010530,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C010531,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C010532,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C010533,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C010534,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C010535,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C010536,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C010537,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C010538,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C010539,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C010540,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C010541,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C010542,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C010543,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C010544,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C010545,FEATURE_SUCCESS,0.4.26,3,3,0,0,
+C010546,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C010547,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C010548,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C010549,FEATURE_SUCCESS,0.5.17,6,6,0,0,
+C010550,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C010551,PROCESS_FAILED,,0,0,0,0,solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ
+C010552,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C010553,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C010554,FEATURE_SUCCESS,0.4.24,9,9,0,0,
+C010555,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C010556,FEATURE_SUCCESS,0.4.24,9,9,0,0,
+C010557,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C010558,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.11 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:92:63: Error: Expected token LBrace got reserved keyword 'Pure'
+    function in || solc 0.4.24: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.24 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:1:1: Error: Source file requires different compiler version (current compiler i || solc 0.4.26: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.26 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:1:1: Error: Source file requires different compiler version (current compiler i || solc 0.5.17: An error occurred during execution
+> command: `/root/.solcx/solc-v0.5.17 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:1:1: Error: Source file requires different compiler version (current compiler i || solc 0.6.12: An error occurred during execution
+> command: `/root/.solcx/solc-v0.6.12 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Source file requires different compiler version (current compiler is 0.6.12+commit.27d5 || solc 0.7.6: An error occurred during execution
+> command: `/root/.solcx/solc-v0.7.6 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Source file requires different compiler version (current compiler is 0.7.6+commit.733829 || solc 0.8.37: An error occurred during execution
+> command: `/root/.solcx/solc-v0.8.37 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Source file requires different compiler version (current compiler is 0.8.37+commit.f401"
+C010559,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C010560,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C010561,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C010562,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C010563,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C010564,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C010565,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C010566,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C010567,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C010568,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C010569,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C010570,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C010571,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C010572,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C010573,FEATURE_SUCCESS,0.4.11,8,8,0,13,
+C010574,FEATURE_SUCCESS,0.4.11,9,9,0,0,
+C010575,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C010576,FEATURE_SUCCESS,0.4.26,3,3,0,0,
+C010577,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C010578,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C010579,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C010580,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C010581,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C010582,FEATURE_SUCCESS,0.4.11,9,9,0,0,
+C010583,FEATURE_SUCCESS,0.5.17,2,2,0,0,
+C010584,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C010585,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C010586,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C010587,FEATURE_SUCCESS,0.4.24,9,9,0,10,
+C010588,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C010589,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C010590,FEATURE_SUCCESS,0.5.17,1,1,0,0,
+C010591,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C010592,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C010593,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C010594,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C010595,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C010596,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C010597,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C010598,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C010599,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C010600,FEATURE_SUCCESS,0.4.24,1,1,0,0,

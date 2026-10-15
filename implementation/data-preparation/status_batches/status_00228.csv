@@ -1,0 +1,139 @@
+contract_id,status,compiler,runtime_contracts,metadata_removed,metadata_unverified,unknown_opcode_count,error
+C022701,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C022702,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C022703,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C022704,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C022705,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C022706,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C022707,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C022708,FEATURE_SUCCESS,0.4.11,5,5,0,0,
+C022709,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C022710,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C022711,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C022712,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C022713,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C022714,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C022715,FEATURE_SUCCESS,0.4.26,6,6,0,0,
+C022716,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C022717,FEATURE_SUCCESS,0.4.24,11,11,0,0,
+C022718,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C022719,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C022720,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C022721,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C022722,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C022723,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C022724,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C022725,FEATURE_SUCCESS,0.4.11,4,4,0,0,
+C022726,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C022727,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C022728,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C022729,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C022730,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C022731,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C022732,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C022733,FEATURE_SUCCESS,0.4.24,3,3,0,1,
+C022734,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C022735,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C022736,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C022737,PROCESS_FAILED,,0,0,0,0,solc 0.4.26: Runtime bytecode không hợp lệ
+C022738,FEATURE_SUCCESS,0.5.17,7,7,0,0,
+C022739,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C022740,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C022741,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C022742,FEATURE_SUCCESS,0.5.17,1,1,0,2,
+C022743,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C022744,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.11 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:373:37: Warning: This looks like an address but has an invalid checksum. If thi || solc 0.4.24: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.24 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:125:5: Warning: Use of the ""var"" keyword is deprecated.
+    var pending = m_pen || solc 0.4.26: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.26 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:125:5: Warning: Use of the ""var"" keyword is deprecated.
+    var pending = m_pen"
+C022745,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C022746,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C022747,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C022748,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C022749,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C022750,FEATURE_SUCCESS,0.4.24,9,9,0,0,
+C022751,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C022752,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C022753,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C022754,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C022755,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.11 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:60:7: Warning: This looks like an address but has an invalid checksum. If this  || solc 0.4.24: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.24 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:59:1: Warning: Defining constructors as functions with the same name as the con || solc 0.4.26: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.26 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:59:1: Warning: Defining constructors as functions with the same name as the con"
+C022756,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C022757,FEATURE_SUCCESS,0.4.24,10,10,0,0,
+C022758,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C022759,FEATURE_SUCCESS,0.4.11,5,5,0,0,
+C022760,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C022761,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C022762,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C022763,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C022764,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C022765,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C022766,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C022767,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C022768,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C022769,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C022770,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C022771,FEATURE_SUCCESS,0.5.17,1,1,0,0,
+C022772,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C022773,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C022774,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C022775,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C022776,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C022777,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C022778,FEATURE_SUCCESS,0.4.26,4,4,0,0,
+C022779,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C022780,FEATURE_SUCCESS,0.5.17,2,2,0,0,
+C022781,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C022782,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C022783,PROCESS_FAILED,,0,0,0,0,solc 0.4.11: Runtime bytecode không hợp lệ || solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ
+C022784,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C022785,FEATURE_SUCCESS,0.4.26,3,3,0,0,
+C022786,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C022787,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C022788,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C022789,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C022790,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C022791,FEATURE_SUCCESS,0.5.17,3,3,0,0,
+C022792,FEATURE_SUCCESS,0.4.24,9,9,0,0,
+C022793,FEATURE_SUCCESS,0.4.24,14,14,0,0,
+C022794,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C022795,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C022796,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C022797,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C022798,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C022799,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C022800,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate

@@ -1,0 +1,156 @@
+contract_id,status,compiler,runtime_contracts,metadata_removed,metadata_unverified,unknown_opcode_count,error
+C028701,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C028702,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C028703,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C028704,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C028705,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C028706,FEATURE_SUCCESS,0.4.26,5,5,0,0,
+C028707,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C028708,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C028709,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C028710,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C028711,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C028712,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C028713,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C028714,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C028715,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C028716,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C028717,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C028718,FEATURE_SUCCESS,0.4.24,9,9,0,0,
+C028719,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C028720,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C028721,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C028722,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C028723,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C028724,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C028725,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C028726,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C028727,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C028728,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C028729,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C028730,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C028731,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C028732,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C028733,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C028734,FEATURE_SUCCESS,0.4.26,3,3,0,0,
+C028735,FEATURE_SUCCESS,0.5.17,3,3,0,0,
+C028736,PROCESS_FAILED,,0,0,0,0,solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ
+C028737,FEATURE_SUCCESS,0.4.26,3,3,0,0,
+C028738,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C028739,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C028740,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C028741,FEATURE_SUCCESS,0.4.24,12,12,0,0,
+C028742,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C028743,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C028744,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C028745,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C028746,FEATURE_SUCCESS,0.4.11,6,6,0,0,
+C028747,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C028748,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C028749,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C028750,FEATURE_SUCCESS,0.4.24,17,17,0,0,
+C028751,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C028752,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C028753,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C028754,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C028755,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C028756,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C028757,PROCESS_FAILED,,0,0,0,0,solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ
+C028758,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C028759,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C028760,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C028761,FEATURE_SUCCESS,0.4.11,3,3,0,8,
+C028762,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C028763,FEATURE_SUCCESS,0.4.24,14,14,0,0,
+C028764,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C028765,FEATURE_SUCCESS,0.4.24,3,3,0,5,
+C028766,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C028767,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.11 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:410:18: Error: Contract with internal constructor cannot be created directly.
+  || solc 0.4.24: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.24 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:32:5: Warning: Defining constructors as functions with the same name as the con || solc 0.4.26: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.26 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:32:5: Warning: Defining constructors as functions with the same name as the con"
+C028768,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C028769,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C028770,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C028771,FEATURE_SUCCESS,0.4.11,5,5,0,0,
+C028772,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C028773,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C028774,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C028775,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C028776,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C028777,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C028778,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.11 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:16:47: Error: Expected token LBrace got 'View'
+    function balanceOf(address _ || solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ || solc 0.5.17: An error occurred during execution
+> command: `/root/.solcx/solc-v0.5.17 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:354:96: Error: The state mutability modifier ""constant"" was removed in version  || solc 0.6.12: An error occurred during execution
+> command: `/root/.solcx/solc-v0.6.12 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Warning: Only state variables can have a docstring. This will be disallowed in 0.7.0.
+  || solc 0.7.6: An error occurred during execution
+> command: `/root/.solcx/solc-v0.7.6 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Only state variables or file-level variables can have a docstring.
+   --> <stdin>:237:14 || solc 0.8.37: An error occurred during execution
+> command: `/root/.solcx/solc-v0.8.37 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+   --> <stdin>:354:96:
+    |
+354 |     function validPo"
+C028779,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C028780,FEATURE_SUCCESS,0.4.26,4,4,0,0,
+C028781,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C028782,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C028783,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C028784,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C028785,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C028786,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C028787,FEATURE_SUCCESS,0.5.17,4,4,0,0,
+C028788,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C028789,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C028790,FEATURE_SUCCESS,0.4.24,6,6,0,0,
+C028791,FEATURE_SUCCESS,0.4.24,10,10,0,0,
+C028792,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C028793,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C028794,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C028795,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C028796,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C028797,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C028798,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C028799,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C028800,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate

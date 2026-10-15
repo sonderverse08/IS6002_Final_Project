@@ -1,0 +1,171 @@
+contract_id,status,compiler,runtime_contracts,metadata_removed,metadata_unverified,unknown_opcode_count,error
+C024601,FEATURE_SUCCESS,0.5.17,1,1,0,0,
+C024602,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C024603,FEATURE_SUCCESS,0.4.11,1,1,0,0,
+C024604,FEATURE_SUCCESS,0.4.11,2,2,0,12,
+C024605,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C024606,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C024607,FEATURE_SUCCESS,0.5.17,3,3,0,0,
+C024608,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C024609,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C024610,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C024611,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C024612,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C024613,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C024614,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C024615,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C024616,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: Runtime bytecode không hợp lệ || solc 0.4.24: Runtime bytecode không hợp lệ || solc 0.4.26: Runtime bytecode không hợp lệ || solc 0.5.17: An error occurred during execution
+> command: `/root/.solcx/solc-v0.5.17 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:108:39: Error: The state mutability modifier ""constant"" was removed in version  || solc 0.6.12: An error occurred during execution
+> command: `/root/.solcx/solc-v0.6.12 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+The state mutability modifier ""constant"" was removed in version 0.5.0. Use ""view"" or ""p || solc 0.7.6: An error occurred during execution
+> command: `/root/.solcx/solc-v0.7.6 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+   --> <stdin>:108:39:
+    |
+108 |   function isPricingS || solc 0.8.37: An error occurred during execution
+> command: `/root/.solcx/solc-v0.8.37 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+Expected '{' but got 'constant'
+   --> <stdin>:108:39:
+    |
+108 |   function isPricing"
+C024617,FEATURE_SUCCESS,0.4.11,7,7,0,0,
+C024618,FEATURE_SUCCESS,0.5.17,2,2,0,0,
+C024619,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C024620,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C024621,FEATURE_SUCCESS,0.4.24,11,11,0,0,
+C024622,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C024623,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C024624,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C024625,FEATURE_SUCCESS,0.4.26,8,8,0,0,
+C024626,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C024627,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C024628,FEATURE_SUCCESS,0.4.24,10,10,0,0,
+C024629,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C024630,FEATURE_SUCCESS,0.4.26,3,3,0,0,
+C024631,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C024632,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C024633,FEATURE_SUCCESS,0.5.17,1,1,0,0,
+C024634,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C024635,FEATURE_SUCCESS,0.4.24,10,10,0,0,
+C024636,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C024637,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C024638,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C024639,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C024640,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C024641,FEATURE_SUCCESS,0.4.11,5,5,0,0,
+C024642,FEATURE_SUCCESS,0.5.17,6,6,0,0,
+C024643,FEATURE_SUCCESS,0.4.24,2,2,0,6,
+C024644,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C024645,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C024646,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.11 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:353:13: Warning: Return value of low-level calls not used.
+            m_txs[_h || solc 0.4.24: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.24 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:124:9: Warning: Use of the ""var"" keyword is deprecated.
+        var pending = m || solc 0.4.26: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.26 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:124:9: Warning: Use of the ""var"" keyword is deprecated.
+        var pending = m"
+C024647,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C024648,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C024649,FEATURE_SUCCESS,0.4.26,1,1,0,0,
+C024650,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C024651,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C024652,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C024653,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C024654,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C024655,FEATURE_SUCCESS,0.5.17,2,2,0,0,
+C024656,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C024657,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C024658,FEATURE_SUCCESS,0.4.11,8,8,0,10,
+C024659,NO_COMPILER_CANDIDATE,,0,0,0,0,Không có compiler candidate
+C024660,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C024661,FEATURE_SUCCESS,0.4.26,2,2,0,0,
+C024662,FEATURE_SUCCESS,0.4.11,4,4,0,0,
+C024663,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C024664,FEATURE_SUCCESS,0.4.24,8,8,0,0,
+C024665,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C024666,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C024667,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C024668,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C024669,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C024670,FEATURE_SUCCESS,0.5.17,6,6,0,0,
+C024671,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C024672,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C024673,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C024674,FEATURE_SUCCESS,0.4.11,4,4,0,9,
+C024675,FEATURE_SUCCESS,0.4.11,3,3,0,0,
+C024676,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C024677,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C024678,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C024679,FEATURE_SUCCESS,0.4.11,5,5,0,0,
+C024680,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C024681,FEATURE_SUCCESS,0.4.11,4,4,0,0,
+C024682,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C024683,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C024684,FEATURE_SUCCESS,0.4.24,1,1,0,0,
+C024685,FEATURE_SUCCESS,0.4.24,22,22,0,33,
+C024686,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C024687,PROCESS_FAILED,,0,0,0,0,"solc 0.4.11: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.11 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:51:28: Error: Contract with internal constructor cannot be created directly.
+   || solc 0.4.24: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.24 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:41:5: Warning: Defining constructors as functions with the same name as the con || solc 0.4.26: An error occurred during execution
+> command: `/root/.solcx/solc-v0.4.26 --combined-json bin-runtime --allow-paths /content/drive/MyDrive/IS6002/merged_dataset/contracts -`
+> return code: `1`
+> stdout:
+
+> stderr:
+<stdin>:41:5: Warning: Defining constructors as functions with the same name as the con"
+C024688,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C024689,FEATURE_SUCCESS,0.4.24,9,9,0,0,
+C024690,FEATURE_SUCCESS,0.4.24,5,5,0,0,
+C024691,FEATURE_SUCCESS,0.4.24,7,7,0,0,
+C024692,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C024693,FEATURE_SUCCESS,0.4.11,2,2,0,0,
+C024694,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C024695,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C024696,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C024697,FEATURE_SUCCESS,0.4.24,4,4,0,0,
+C024698,FEATURE_SUCCESS,0.4.24,3,3,0,0,
+C024699,FEATURE_SUCCESS,0.4.24,2,2,0,0,
+C024700,FEATURE_SUCCESS,0.4.24,1,1,0,0,
