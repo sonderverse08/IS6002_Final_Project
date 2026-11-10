@@ -14,16 +14,32 @@
 
 </div>
 
-| | |
-|---|---|
-| **Mã lớp** | IS6002.26.1.CH.02 |
-| **Giảng viên** | PGS.TS. Nguyễn Đình Thuân<br/>ThS. Nguyễn Thị Kim Phụng |
-| **Nhóm 13** | Lê Anh Tuấn – 26848245<br/>Lê Thị Thương – 26848218<br/>Nguyễn Vũ Mai Phương – 26848176<br/>Nguyễn Dương Quốc Anh – 26848005 |
+<div align="center">
 
-> **Tác giả bài báo:** ThS. Bùi Tổng Nha & PGS.TS. Nguyễn Đình Thuân (Trường Đại học Công nghệ Thông tin, ĐHQG – TP.HCM)<br/>
-> **Hội nghị công bố:** 2022 RIVF International Conference on Computing and Communication Technologies (RIVF)
+<table>
+  <tr>
+    <td><b>Mã lớp</b></td>
+    <td>IS6002.26.1.CH.02</td>
+  </tr>
+  <tr>
+    <td><b>Giảng viên</b></td>
+    <td>PGS.TS. Nguyễn Đình Thuân<br/>ThS. Nguyễn Thị Kim Phụng</td>
+  </tr>
+  <tr>
+    <td><b>Nhóm 13</b></td>
+    <td>Lê Anh Tuấn – 26848245<br/>Lê Thị Thương – 26848218<br/>Nguyễn Vũ Mai Phương – 26848176<br/>Nguyễn Dương Quốc Anh – 26848005</td>
+  </tr>
+</table>
 
-<div align="center"><i>TP. Hồ Chí Minh, tháng 11 năm 2026</i></div>
+<p>
+<b>Tác giả bài báo:</b> ThS. Bùi Tổng Nha & PGS.TS. Nguyễn Đình Thuân<br/>
+(Trường Đại học Công nghệ Thông tin, ĐHQG – TP.HCM)<br/>
+<b>Hội nghị công bố:</b> 2022 RIVF International Conference on Computing and Communication Technologies (RIVF)
+</p>
+
+<i>TP. Hồ Chí Minh, tháng 11 năm 2026</i>
+
+</div>
 
 ---
 
