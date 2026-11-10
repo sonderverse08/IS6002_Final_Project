@@ -261,7 +261,7 @@ Bài báo đã trình bày cách ứng dụng các phương pháp học không g
 
 ## 5. Tài liệu tham khảo
 
-[1]. B. T. Nha and N. D. Thuan, “Methodology Interaction by Machine Learning Model to Detect Vulnerability in Smart Contract of Blockchain,” in *Proc. 2022 RIVF International Conference on Computing and Communication Technologies*, 2022.
+[1]. B. T. Nha, N. D. Thuan, “Methodology Interaction by Machine Learning Model to Detect Vulnerability in Smart Contract of Blockchain,” in *Proc. 2022 RIVF International Conference on Computing and Communication Technologies*, 2022.
 
 [2]. Amazon Web Services (AWS), “What is Blockchain Technology?,” n.d. [Online].
 
