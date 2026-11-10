@@ -261,17 +261,17 @@ Bài báo đã trình bày cách ứng dụng các phương pháp học không g
 
 ## 5. Tài liệu tham khảo
 
-1. B. T. Nha and N. D. Thuan, “Methodology Interaction by Machine Learning Model to Detect Vulnerability in Smart Contract of Blockchain,” in *Proc. 2022 RIVF International Conference on Computing and Communication Technologies*, 2022.
-2. Amazon Web Services (AWS), “What is Blockchain Technology?,” n.d. [Online].
-3. IBM, “What Are Smart Contracts on Blockchain?,” n.d. [Online].
-4. Ethereum.org, “Introduction to Smart Contracts,” n.d. [Online].
-5. Solidity, “Solidity Documentation,” n.d. [Online].
-6. Ethereum.org, “Introduction to Ethereum,” n.d. [Online].
-7. SmartBugs, “SmartBugs Curated: A Curated Dataset of Vulnerable Solidity Smart Contracts,” GitHub, n.d.
-8. SmartBugs, “SmartBugs Wild Dataset,” GitHub, n.d.
-9. SmartBugs, “SolidiFI-Benchmark: A Benchmark for Solidity Smart Contract Vulnerabilities,” GitHub, n.d.
-10. L. Breiman, “Random Forests,” *Machine Learning*, vol. 45, no. 1, pp. 5–32, 2001.
-11. Scikit-learn, “Random Forests and Other Randomized Tree Ensembles,” *Scikit-learn Documentation*, n.d.
+[1]. B. T. Nha and N. D. Thuan, “Methodology Interaction by Machine Learning Model to Detect Vulnerability in Smart Contract of Blockchain,” in *Proc. 2022 RIVF International Conference on Computing and Communication Technologies*, 2022.
+[2]. Amazon Web Services (AWS), “What is Blockchain Technology?,” n.d. [Online].
+[3]. IBM, “What Are Smart Contracts on Blockchain?,” n.d. [Online].
+[4]. Ethereum.org, “Introduction to Smart Contracts,” n.d. [Online].
+[5]. Solidity, “Solidity Documentation,” n.d. [Online].
+[6]. Ethereum.org, “Introduction to Ethereum,” n.d. [Online].
+[7]. SmartBugs, “SmartBugs Curated: A Curated Dataset of Vulnerable Solidity Smart Contracts,” GitHub, n.d.
+[8]. SmartBugs, “SmartBugs Wild Dataset,” GitHub, n.d.
+[9]. SmartBugs, “SolidiFI-Benchmark: A Benchmark for Solidity Smart Contract Vulnerabilities,” GitHub, n.d.
+[10]. L. Breiman, “Random Forests,” *Machine Learning*, vol. 45, no. 1, pp. 5–32, 2001.
+[11]. Scikit-learn, “Random Forests and Other Randomized Tree Ensembles,” *Scikit-learn Documentation*, n.d.
 
 ---
 
