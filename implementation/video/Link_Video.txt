@@ -1,0 +1,9 @@
+Chúng em xin gửi Cô video kết hợp từ phần báo cáo Deadline 18/11 và bổ sung thêm phần cô đã dăn dò nhóm 
+(đã được chúng em gộp thành 1 video để thuận tiện cho vịệc theo dõi:
+
++ Nêu rõ cách Kmeans đánh nhãn cho cụm và cách Autoencoder dự đoán hợp đồng có lỗi hay không.
++ Upload một Smart Contract và cho 2 Model là Kmeans và Autoencoder dự đoán.
+
+Phần bổ sung thêm được bắt đầu vào phút 13:41 của video. Phần trước 13:41 là clip cũ về quá trình thực nghiệm nhóm đã nộp bài Deadline. 
+Chúng em xin cảm ơn Cô và kính chúc Cô thật nhiều sức khỏe.
+https://drive.google.com/file/d/1qbagPaTRC1QjSmSAueYavNoAiQIiE8Kc/view?usp=sharing
